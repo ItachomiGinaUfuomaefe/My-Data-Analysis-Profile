@@ -12,7 +12,7 @@
   <a href="mailto:ginaitachomi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## 🚀 About Me  
 I am a Detail-Oriented Data Analyst with 2 years of experience of collecting, cleaning, analysing and visualizing data to support business decision making. Proficient in Excel & Power BI. Strong ability to transform complex datasets into actionable insight that improve operational efficiency and business performance.
 
 
